@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T23:11:21.207Z'
-dateModified: '2016-02-09T23:11:11.133Z'
+datePublished: '2016-02-09T23:14:30.614Z'
+dateModified: '2016-02-09T23:14:27.745Z'
 title: 'iOS 9.3 & Night Shift'
 author: []
+sourcePath: _posts/2016-02-09-ios-93-and-night-shift.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-ios-93-and-night-shift.md
-published: true
 url: ios-93-and-night-shift/index.html
 _type: Article
 
 ---
+![f.lux on, f.lux off](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce1d5707-c4b3-45a1-981b-84d0d1a7983a.jpg)
+
 I'm sat here listening to [ATP][0] where Marco, John and Casey are [discussing the recent addition of _Night Shift_][1] in the recently released BETA of [iOS 9.3][2]. They talk about when [f.lux][3] released a binary and instructions to allow you to install the app on your device back in November. Shortly after, they pulled all the information from their website at the request of Apple, and whether this was done because Apple was already working on a similar feature for iOS \[Night Shift\] or because they wanted to 'steal' the idea.
 
 Now, I don't think 'steal' is the correct word here. Historically, Apple has lifted ideas from the jailbreak community --- where f.lux made it's rise to fame --- and implemented them natively into iOS. From notification centre, control centre and quick reply and now f.lux. Heck, even folders for iOS apps was originally a jailbreak tweak; I think with the community innovating, iOS would have stagnated a long time ago.
