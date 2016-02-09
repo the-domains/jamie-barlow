@@ -1,0 +1,28 @@
+name: Jamie Barlow
+favicon: null
+layout_spectrum: 0.8013583584688604
+typography_spectrum: 0.26473666122183204
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5384663462173194
+  lightness: 0.20992778660729527
+  saturation: 0.9298786818981171
+  rhythmicContrast: 0.5840918414760381
+purpose: []
