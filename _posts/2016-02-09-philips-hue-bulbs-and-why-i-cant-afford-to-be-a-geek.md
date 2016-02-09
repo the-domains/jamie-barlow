@@ -6,23 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T18:35:14.784Z'
-dateModified: '2016-02-09T18:31:17.405Z'
+datePublished: '2016-02-09T18:45:01.866Z'
+dateModified: '2016-02-09T18:44:59.301Z'
 title: "Philips Hue Bulbs & Why I Can't Afford To Be A Geek"
 author: []
+sourcePath: _posts/2016-02-09-philips-hue-bulbs-and-why-i-cant-afford-to-be-a-geek.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-philips-hue-bulbs-and-why-i-cant-afford-to-be-a-geek.md
-published: true
 url: philips-hue-bulbs-and-why-i-cant-afford-to-be-a-geek/index.html
 _type: Article
 
 ---
+![The Philips Hue Starter Set](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71a7168e-4ce9-4118-a98b-462368268451.jpg)
+
 I've wanted some smart bulbs for a long time. Something about the "you don't have to get of your ass to turn the lights off" scenario really appeals to my lazy side AND my inner geek.
+![I’m the fanboy on the right — if you were to add a few extra pounds.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/690ec554-0e69-4420-be76-ce9960ed6ee1.jpg)
 
 I recently decided to invest in some now that they are a bit more affordable/useful and, as a self-confessed Apple fan-obi, I knew I wanted some lights that would be compatible with HomeKit. It didn't take long to find out that the Philips Hue bulbs that I'd heard about it the past could take full advantage of HomeKit thanks to their fancy new Philips Bridge 2.0\. This little bridge sits on your network via cable\[note\]No WiFi option, but I guess Philips are more concerned with rock solid connectivity than with convenience here. Without a functioning bridge, you might as well have regular lightbulbs.\[/note\] and uses the ZigBee wireless standard to communicate with your bulbs. It's the brains of the operation.
 
