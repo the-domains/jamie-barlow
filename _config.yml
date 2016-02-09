@@ -1,29 +1,41 @@
-name: Jamie Barlow
-favicon: null
-layout_spectrum: 0.98868
-typography_spectrum: 0.31118
 title: Jamie Barlow
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-55286287-6
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6433692
+  brandStrength: 1
+  lightness: 0.5197133
   brandColors:
     - '#040205'
     - '#fefefc'
     - '#5f3c54'
     - '#e37447'
     - '#017e75'
-  brandStrength: 0
-  lightness: 0.75
-  saturation: 0.1875
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.718638
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-55286287-6
+  facebook: null
+favicon: null
+name: Jamie Barlow
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.31118
+layout_spectrum: 0.98868
