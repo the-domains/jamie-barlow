@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jamie Barlow]]></title>
         <description><![CDATA[Jamie Barlow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jamie-barlow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 18:22:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 18:35:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jamie-barlow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Philips Hue Bulbs & Why I Can't Afford To Be A Geek]]></title>
+            <description><![CDATA[<article><h1>Philips Hue Bulbs & Why I Can't Afford To Be A Geek</h1><p>I’ve wanted some smart bulbs for a long time. Something about the “you don’t have to get of your ass to turn the lights off” scenario really appeals to my lazy side AND my inner geek.</p></article>]]></description>
+            <link>https://thegrid.ai/jamie-barlow/philips-hue-bulbs-and-why-i-cant-afford-to-be-a-geek/index.html</link>
+            <guid isPermaLink="false">940d804e-c912-4393-b434-9e22b5e43b98</guid>
+            <pubDate>Tue, 09 Feb 2016 18:35:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My 3-months-late, first impressions of the new Apple TV]]></title>
-            <description><![CDATA[<article><h1>My 3-months-late, first impressions of the new Apple TV</h1><p>‘The New Apple TV’ — it’s unofficial, official name since Apple doesn’t actually assign it a number unlike the iPhone, iPad and iPod line1 — has been around now for about 3 months. There are plenty of reviews on the web. From Cult of Mac to RedmondPie, opinions are plentiful. I didn’t read a single review before buying mine. I didn’t really need to, because I knew all I needed to know: there is a Plex app and there is a VLC app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8b032939e2651f18f87b3e022f7f662e7f6811c.jpg"></article>]]></description>
-            <link>undefinedmy-3-months-late-first-impressions-of-the-new-apple-tv/index.html</link>
+            <description><![CDATA[<article><h1>My 3-months-late, first impressions of the new Apple TV</h1><p>‘The New Apple TV’ — it’s unofficial, official name since Apple doesn’t actually assign it a number unlike the iPhone, iPad and iPod line1 — has been around now for about 3 months. There are plenty of reviews on the web. From Cult of Mac to RedmondPie, opinions are plentiful. I didn’t read a single review before buying mine. I didn’t really need to, because I knew all I needed to know: there is a Plex app and there is a VLC app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a714ad8ee428f515935c8319a866fce7faae16fb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jamie-barlow/my-3-months-late-first-impressions-of-the-new-apple-tv/index.html</link>
             <guid isPermaLink="false">9af4db1c-b569-47a4-83be-575f1e766fee</guid>
             <pubDate>Tue, 09 Feb 2016 18:22:03 GMT</pubDate>
         </item>
