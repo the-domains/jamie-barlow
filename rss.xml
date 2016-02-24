@@ -4,11 +4,18 @@
         <description><![CDATA[Jamie Barlow]]></description>
         <link>http://thebarlo.ws/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 16:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 12:02:37 GMT</lastBuildDate>
         <atom:link href="http://thebarlo.ws/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>I’m mostly unremarkable. Just like Arthur Dent, really. Although that’s probably not the best analogy since he ended up being pretty significant. Maybe I will — one day — be totally remarkable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8558e9c429488fe2eff31a7e4818f59b234ae8a9.jpg"></article>]]></description>
+            <link>http://thebarlo.ws/about-me/index.html</link>
+            <guid isPermaLink="false">578212b9-0c87-489d-88bd-c9a9e5b2fa6a</guid>
+            <pubDate>Wed, 24 Feb 2016 12:02:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Best Valentine's Card]]></title>
-            <description><![CDATA[<article><h1>The Best Valentine's Card</h1><p>The best Valentine's day card. Written without hope or agenda, and totally from the heart. 💛</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8c0d95cae39e4de29b3be5adbbed1ecf8e25c17.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Best Valentine's Card</h1><p>The best Valentine's day card. Written without hope or agenda, and totally from the heart. 💛</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7708d1114e3c7606e5a1daf06a236ca7352c1039.jpg"></article>]]></description>
             <link>http://thebarlo.ws/the-best-valentines-card/index.html</link>
             <guid isPermaLink="false">f1fd35db-7b49-4272-8126-bbd4e4e564bc</guid>
             <pubDate>Wed, 17 Feb 2016 16:58:28 GMT</pubDate>
