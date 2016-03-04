@@ -1,7 +1,7 @@
 name: Jamie Barlow
 favicon: null
-layout_spectrum: 0.80665
-typography_spectrum: 0.43404
+layout_spectrum: 0.49172
+typography_spectrum: 0.19273
 title: Jamie Barlow
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#95c613'
     - '#1da1b8'
     - '#41bdd1'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0.625
-  rhythmicContrast: 0.75
+  brandStrength: 0.1875
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
