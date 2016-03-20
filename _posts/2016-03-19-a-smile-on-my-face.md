@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Nothing puts a smile on your face like a bike. Picked up a shining example of a CBR600RR today from The Super Bike Factory. Highly recommend them and all their bikes look pretty mint.\_"
-datePublished: '2016-03-19T23:53:53.565Z'
-dateModified: '2016-03-19T23:53:47.186Z'
+datePublished: '2016-03-20T09:54:48.286Z'
+dateModified: '2016-03-19T23:54:02.348Z'
 title: A Smile On My Face
 author: []
 sourcePath: _posts/2016-03-19-a-smile-on-my-face.md
