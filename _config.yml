@@ -1,7 +1,7 @@
 name: Jamie Barlow
 favicon: null
-layout_spectrum: 0.9103943
-typography_spectrum: 0.5035842
+layout_spectrum: 0.48469
+typography_spectrum: 0.87148
 title: Jamie Barlow
 collections:
   - index:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#9EAFB7'
-    - '#101115'
-    - '#DF0E21'
-    - '#FE6272'
+    - '#ffffff'
+    - '#010101'
+    - '#6da0a9'
+    - '#e82116'
+    - '#44fece'
   brandStrength: 1
   lightness: 0
   saturation: 0.1875
