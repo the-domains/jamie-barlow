@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T10:37:55.658Z'
+datePublished: '2016-08-20T10:39:12.180Z'
 sourcePath: _posts/2016-02-16-a-birthday-breakfast.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-20T10:37:55.153Z'
+dateModified: '2016-08-20T10:39:11.744Z'
 title: Birthday Breakfast
 publisher: {}
 description: >-
