@@ -4,7 +4,7 @@
         <description><![CDATA[The Barlows]]></description>
         <link>http://thebarlo.ws/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 10:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 10:30:27 GMT</lastBuildDate>
         <atom:link href="http://thebarlo.ws/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Almost the whole gang at Delamere Old Pale]]></title>
@@ -40,13 +40,6 @@
             <link>http://thebarlo.ws/city-smiles/index.html</link>
             <guid isPermaLink="false">35193e8b-80c8-4dfd-90c3-a81bfb7c87cb</guid>
             <pubDate>Tue, 16 Feb 2016 20:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My 3-months-late, first impressions of the new Apple TV]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4713e892-0b60-48bf-872e-b3a8f98e7cdb.jpg">]]></description>
-            <link>http://thebarlo.ws/my-3-months-late-first-impressions-of-the-new-apple-tv/index.html</link>
-            <guid isPermaLink="false">9af4db1c-b569-47a4-83be-575f1e766fee</guid>
-            <pubDate>Tue, 09 Feb 2016 18:22:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
