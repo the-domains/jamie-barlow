@@ -1,10 +1,14 @@
 ---
-author: []
-datePublished: '2016-06-13T12:35:16.909Z'
-title: Rhonda's Ass
-description: ''
+datePublished: '2016-08-20T10:32:06.204Z'
 sourcePath: _posts/2016-06-12-rhondas-ass.md
-dateModified: '2016-06-12T13:18:41.016Z'
+author: []
+via: {}
+dateModified: '2016-08-20T10:32:05.776Z'
+title: Rhonda's Ass
+publisher: {}
+description: >-
+  I know that underseat exhausts offer no benefits, but by god they look
+  amazing.
 starred: false
 inFeed: true
 hasPage: false
@@ -14,3 +18,5 @@ _type: MediaObject
 ---
 # Rhonda's Ass
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed3e6f1d-0078-4b7e-aa2e-e10bfb6cfa13.jpg)
+
+I _know_ that underseat exhausts offer no benefits, but by god they look amazing.
