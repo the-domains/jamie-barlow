@@ -1,28 +1,28 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-04T12:08:23.702Z'
-dateModified: '2016-03-04T12:07:05.793Z'
-title: A Birthday Breakfast
-author: []
+datePublished: '2016-08-20T10:36:41.177Z'
 sourcePath: _posts/2016-02-16-a-birthday-breakfast.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-20T10:36:40.635Z'
+title: ''
+publisher: {}
+description: >-
+  A special birthday breakfast for the birthday girl — 2 today! Time sure does
+  fly.
+inLanguage: null
+inNav: false
+starred: false
 url: a-birthday-breakfast/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7940b7aabc7a0e43c4b8eb6feeb112fab8329886.jpg)
+![She doesn't seem happy that it's her birthday.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7940b7aabc7a0e43c4b8eb6feeb112fab8329886.jpg)
 
 A special birthday breakfast for the birthday girl --- 2 today! Time sure does fly.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c52797941b349b2516e2c965ffa85b3a29e7964e.jpg)
+![Time to dig in.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/10fe636f7f02b42f12e794ec61abcb59a9379337.jpg)
