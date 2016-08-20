@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-20T10:35:12.927Z'
+datePublished: '2016-08-20T10:38:24.446Z'
 sourcePath: _posts/2016-04-18-almost-the-whole-gang-at-delamere-old-pale.md
 author: []
 via: {}
-dateModified: '2016-08-20T10:35:12.548Z'
+dateModified: '2016-08-20T10:38:24.020Z'
 title: The Whole Gang
 publisher: {}
 description: >-
