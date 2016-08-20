@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T10:36:41.177Z'
+datePublished: '2016-08-20T10:37:55.658Z'
 sourcePath: _posts/2016-02-16-a-birthday-breakfast.md
 inFeed: true
 authors: []
@@ -9,8 +9,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-20T10:36:40.635Z'
-title: ''
+dateModified: '2016-08-20T10:37:55.153Z'
+title: Birthday Breakfast
 publisher: {}
 description: >-
   A special birthday breakfast for the birthday girl — 2 today! Time sure does
@@ -22,6 +22,7 @@ url: a-birthday-breakfast/index.html
 _type: Article
 
 ---
+# Birthday Breakfast
 ![She doesn't seem happy that it's her birthday.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7940b7aabc7a0e43c4b8eb6feeb112fab8329886.jpg)
 
 A special birthday breakfast for the birthday girl --- 2 today! Time sure does fly.
