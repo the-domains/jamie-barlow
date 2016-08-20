@@ -1,8 +1,30 @@
-name: Jamie Barlow
-favicon: null
-layout_spectrum: 0.76301
 typography_spectrum: 0.00326
-title: Jamie Barlow
+color:
+  brandColors:
+    - '#ffffff'
+    - '#010101'
+    - '#6da0a9'
+    - '#e82116'
+    - '#44fece'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.76301
+analytics:
+  google: UA-73555765-1
+  facebook: null
+  twitter: null
+name: Jamie Barlow
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73555765-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#010101'
-    - '#6da0a9'
-    - '#e82116'
-    - '#44fece'
-  brandStrength: 1
-  lightness: 0.75
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+title: The Barlows
 purpose: []
