@@ -1,14 +1,16 @@
 ---
-description: ''
-author: []
-datePublished: '2016-04-18T22:52:23.981Z'
-publisher:
-  domain: ''
-  name: ''
-dateModified: '2016-04-18T22:52:01.285Z'
-title: Almost the whole gang at Delamere Old Pale
+datePublished: '2016-08-20T10:35:12.927Z'
 sourcePath: _posts/2016-04-18-almost-the-whole-gang-at-delamere-old-pale.md
-published: true
+author: []
+via: {}
+dateModified: '2016-08-20T10:35:12.548Z'
+title: The Whole Gang
+publisher: {}
+description: >-
+  It’s not often that (almost) all of us get together these days — even
+  Christmas tends to be missing a few people now — so it was nice to get
+  together and go trudging around Delamere for the day.
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
@@ -17,5 +19,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Almost the whole gang at Delamere Old Pale
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda42c25-41b5-49fa-bd2d-f998b2efb683.png)
+# The Whole Gang
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7387cf6f2e542fd3df368787aebc9b978acbccc.png)
+
+It's not often that (almost) all of us get together these days --- even Christmas tends to be missing a few people now --- so it was nice to get together and go trudging around Delamere for the day.
