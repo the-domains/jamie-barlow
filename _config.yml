@@ -1,4 +1,3 @@
-layout_spectrum: 0.6852506166324019
 typography_spectrum: 0.9777407420333475
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: ''
   appId: null
+layout_spectrum: 0.6852506166324019
 analytics:
   google: UA-73555765-1
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: YouTube
+    url: 'https://www.youtube.com/channel/UCw7WkBipwYzQpY6N5l9PTMQ'
+    type: external
 favicon: null
 collections:
   - index:
