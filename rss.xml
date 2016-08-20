@@ -4,8 +4,15 @@
         <description><![CDATA[The Barlows]]></description>
         <link>http://thebarlo.ws/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 10:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 10:39:23 GMT</lastBuildDate>
         <atom:link href="http://thebarlo.ws/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Birthday Breakfast]]></title>
+            <description><![CDATA[<article><h1>Birthday Breakfast</h1><p>A special birthday breakfast for the birthday girl — 2 today! Time sure does fly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7940b7aabc7a0e43c4b8eb6feeb112fab8329886.jpg"></article>]]></description>
+            <link>http://thebarlo.ws/a-birthday-breakfast/index.html</link>
+            <guid isPermaLink="false">b830b775-d675-4d5c-8fed-b609399f5b75</guid>
+            <pubDate>Sat, 20 Aug 2016 10:39:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Best Valentine’s Ever]]></title>
             <description><![CDATA[<article><h1>Best Valentine’s Ever</h1><p>The best Valentine's day card. Written without hope or agenda, and totally from the heart. 💛</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7708d1114e3c7606e5a1daf06a236ca7352c1039.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://thebarlo.ws/almost-the-whole-gang-at-delamere-old-pale/index.html</link>
             <guid isPermaLink="false">bb836881-2955-4e8b-a642-2d5b6158b0ec</guid>
             <pubDate>Sat, 20 Aug 2016 10:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Birthday Breakfast]]></title>
-            <description><![CDATA[<article><h1>Birthday Breakfast</h1><p>A special birthday breakfast for the birthday girl — 2 today! Time sure does fly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7940b7aabc7a0e43c4b8eb6feeb112fab8329886.jpg"></article>]]></description>
-            <link>http://thebarlo.ws/a-birthday-breakfast/index.html</link>
-            <guid isPermaLink="false">b830b775-d675-4d5c-8fed-b609399f5b75</guid>
-            <pubDate>Sat, 20 Aug 2016 10:37:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[City Smiles]]></title>
